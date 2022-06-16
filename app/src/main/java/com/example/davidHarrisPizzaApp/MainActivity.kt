@@ -1,13 +1,13 @@
-package com.example.pizzapriceapp
+package com.example.davidHarrisPizzaApp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import androidx.lifecycle.ViewModelProvider
-import com.example.pizzapriceapp.domain.Order
-import com.example.pizzapriceapp.domain.PriceOfPizza
-import com.example.pizzapriceapp.utils.PizzaTime
-import com.example.pizzapriceapp.viewmodel.PizzaViewModel
+import com.example.davidHarrisPizzaApp.domain.Order
+import com.example.davidHarrisPizzaApp.domain.PriceOfPizza
+import com.example.davidHarrisPizzaApp.utils.PizzaTime
+import com.example.davidHarrisPizzaApp.viewmodel.PizzaViewModel
 
 private const val TAG = "PIZZA"
 class MainActivity : AppCompatActivity() {

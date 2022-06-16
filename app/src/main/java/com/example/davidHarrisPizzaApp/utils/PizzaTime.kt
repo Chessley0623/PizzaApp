@@ -1,6 +1,6 @@
-package com.example.pizzapriceapp.utils
+package com.example.davidHarrisPizzaApp.utils
 
-import com.example.pizzapriceapp.domain.Order
+import com.example.davidHarrisPizzaApp.domain.Order
 
 sealed class PizzaTime{
     object LOADING : PizzaTime()

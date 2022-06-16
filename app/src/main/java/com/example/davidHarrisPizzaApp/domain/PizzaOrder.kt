@@ -1,6 +1,6 @@
-package com.example.pizzapriceapp.domain
+package com.example.davidHarrisPizzaApp.domain
 
-import com.example.pizzapriceapp.model.NetworkOfPizza
+import com.example.davidHarrisPizzaApp.model.NetworkOfPizza
 
 data class Order(
     val size: PriceOfPizza,

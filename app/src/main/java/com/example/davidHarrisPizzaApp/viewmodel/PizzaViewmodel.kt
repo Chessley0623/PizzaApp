@@ -1,11 +1,11 @@
-package com.example.pizzapriceapp.viewmodel
+package com.example.davidHarrisPizzaApp.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.pizzapriceapp.rest.PizzaRepo
-import com.example.pizzapriceapp.rest.PizzaRepoImpl
-import com.example.pizzapriceapp.utils.PizzaTime
+import com.example.davidHarrisPizzaApp.rest.PizzaRepo
+import com.example.davidHarrisPizzaApp.rest.PizzaRepoImpl
+import com.example.davidHarrisPizzaApp.utils.PizzaTime
 import kotlinx.coroutines.*
 
 class PizzaViewModel(

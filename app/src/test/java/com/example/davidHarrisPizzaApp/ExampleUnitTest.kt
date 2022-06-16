@@ -1,4 +1,4 @@
-package com.example.pizzapriceapp
+package com.example.davidHarrisPizzaApp
 
 import org.junit.Test
 

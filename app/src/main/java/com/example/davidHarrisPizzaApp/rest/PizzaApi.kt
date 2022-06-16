@@ -1,6 +1,6 @@
-package com.example.pizzapriceapp.rest
+package com.example.davidHarrisPizzaApp.rest
 
-import com.example.pizzapriceapp.model.PizzaOrders
+import com.example.davidHarrisPizzaApp.model.PizzaOrders
 import retrofit2.Response
 import retrofit2.http.GET
 

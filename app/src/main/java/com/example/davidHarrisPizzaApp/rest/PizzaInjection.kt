@@ -1,4 +1,4 @@
-package com.example.pizzapriceapp.rest
+package com.example.davidHarrisPizzaApp.rest
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

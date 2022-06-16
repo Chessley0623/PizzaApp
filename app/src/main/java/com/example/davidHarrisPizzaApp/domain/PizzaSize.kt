@@ -1,4 +1,4 @@
-package com.example.pizzapriceapp.domain
+package com.example.davidHarrisPizzaApp.domain
 
 enum class PriceOfPizza(val price: Int) {
     SMALL(4),
